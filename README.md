@@ -1,4 +1,4 @@
-# Demo App Setup Guide  ==>> dapp app by me for localnet=======>>>> https://garden-finance-lyart.vercel.app/
+# Demo App Setup Guide  ==>> dapp app by me for localnet=======>>>> https://garden-finance-lyart.vercel.app/   ==>>>> usage of garden finance sdk is at  last
 In this guide will walk you through setting up and running our demo app that uses the [Garden SDK](https://docs.garden.finance/developers/sdk/) to swap WBTC (Wrapped Bitcoin) for BTC (Bitcoin). 
 ## Live Demo
 
@@ -98,5 +98,17 @@ Once the server is running, you’ll see the dApp interface, which looks like th
 - Ensure that you have [Merry](https://docs.garden.finance/developers/merry/) and its components (Orderbook, Filler, Faucet, and the necessary blockchain nodes) correctly set up before running the dApp.
 - For more details on using the Garden SDK, check out the [Garden SDK documentation](https://docs.garden.finance/developers/sdk/).
 
-- 
+  Usage of GARDEN sdk;
+1. Swapping Assets
+The primary functionality of the Garden SDK revolves around asset swapping.
+
+2. Multichain Transactions
+With the Garden SDK, developers can manage transactions seamlessly across multiple blockchains.
+
+3. Orderbook Management
+The SDK provides tools for managing orderbooks, enabling developers to create, match, and execute trades based on predefined rules and market conditions.
+
+4. Community and Support
+Developers using the Garden SDK benefit from a supportive community and comprehensive documentation.
+
 If you have any questions or need help, feel free to reach out!
