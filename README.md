@@ -98,7 +98,7 @@ Once the server is running, you’ll see the dApp interface, which looks like th
 - Ensure that you have [Merry](https://docs.garden.finance/developers/merry/) and its components (Orderbook, Filler, Faucet, and the necessary blockchain nodes) correctly set up before running the dApp.
 - For more details on using the Garden SDK, check out the [Garden SDK documentation](https://docs.garden.finance/developers/sdk/).
 
-  Usage of GARDEN sdk;
+  ##Usage of GARDEN sdk:
 1. Swapping Assets
 The primary functionality of the Garden SDK revolves around asset swapping.
 
